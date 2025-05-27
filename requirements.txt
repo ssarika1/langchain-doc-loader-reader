@@ -1,0 +1,6 @@
+langchain>=0.1.13
+langchain-community>=0.0.26
+sentence-transformers
+faiss-cpu
+transformers
+torch
